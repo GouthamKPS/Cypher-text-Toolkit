@@ -1,0 +1,3 @@
+At the present moment, none of the python scripts requires additional components to work.
+
+However, it is highly advised to run the runme.py file if present.
